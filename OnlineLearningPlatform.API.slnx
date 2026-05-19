@@ -1,3 +1,5 @@
 <Solution>
+  <Project Path="../ClassLibrary1/OnlineLearningPlatform.DAL.csproj" Id="9e803e3e-b67f-4395-a3b1-10304e2d775b" />
+  <Project Path="../OnlineLearningPlatform.BLL/OnlineLearningPlatform.BLL.csproj" Id="2ed1d9ac-cf2d-49f5-9035-1627a8c20b4f" />
   <Project Path="OnlineLearningPlatform.API.csproj" />
 </Solution>
